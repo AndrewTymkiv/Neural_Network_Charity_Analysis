@@ -29,6 +29,7 @@ Attempt 2:
 Attempt 3:
 
 
+
 ##### Was the target model performance achieved?
 - Throughout the 3 attempts, the target model performance was not achieved. All attempts yielded an accuracy just below 73%, which is short of the target of 75%.
 
@@ -37,6 +38,7 @@ Attempt 1:
 Attempt 2:
 
 Attempt 3:
+
 
 
 ##### What steps were taken to try to increase model performance?
