@@ -45,3 +45,4 @@ Attempt 3:
 ---
 
 ## Summary
+In summary, all attempts yielded very similar results, and did not achieve the target performance of 75%. There could be a number of potential reasons for this, such as using an incorrect number of neurons and layers, dropping columns that may have been useful to the model and vice versa, or failing to identify the best activation function to use. If I were to perform this analysis again, I would attempt it with a Support Vector Machine model as a binary classifier would be appropriate for the target value which was whether or not the funding was successful. 
