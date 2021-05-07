@@ -23,26 +23,38 @@ The purpose of this analysis is to create a neural netowrk learning model that d
 - Throughout the 3 attempts of running the model, I experimented with various neurons and layers, while using the ReLu activation function for all the hidden layers and the Sigmoid activation function for the output layers. I first began with 90 and 50 neurons in 2 hidden layers as an increase from the oroginal model that did not achieve 75% accuracy. In the second attempt, I stayed with 2 layers while increasing the number of neurons. On the last attempt I drastically decreased the number of neurons, but yielded similar results. 
 
 Attempt 1: 
+
 ![attempt1](https://github.com/AndrewTymkiv/Neural_Network_Charity_Analysis/blob/main/screenshots/attempt1.PNG)
 
+
 Attempt 2:
+
 ![attempt2](https://github.com/AndrewTymkiv/Neural_Network_Charity_Analysis/blob/main/screenshots/attempt2.PNG)
 
+
 Attempt 3:
+
 ![attempt3](https://github.com/AndrewTymkiv/Neural_Network_Charity_Analysis/blob/main/screenshots/attempt3.PNG)
+
 
 
 ##### Was the target model performance achieved?
 - Throughout the 3 attempts, the target model performance was not achieved. All attempts yielded an accuracy just below 73%, which is short of the target of 75%.
 
 Attempt 1:
+
 ![result1](https://github.com/AndrewTymkiv/Neural_Network_Charity_Analysis/blob/main/screenshots/result1.PNG)
 
+
 Attempt 2:
+
 ![result2](https://github.com/AndrewTymkiv/Neural_Network_Charity_Analysis/blob/main/screenshots/result2.PNG)
 
+
 Attempt 3:
+
 ![result3](https://github.com/AndrewTymkiv/Neural_Network_Charity_Analysis/blob/main/screenshots/result3.PNG)
+
 
 
 ##### What steps were taken to try to increase model performance?
